@@ -342,7 +342,7 @@ switch (randomNumber4) {
     console.log("hundred");
     break;
   case 1000:
-    console.log("thausand");
+    console.log("thousand");
     break;
   default:
     console.log("Invalid");
